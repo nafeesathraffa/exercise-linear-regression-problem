@@ -10,4 +10,5 @@ the dataset "Student_Marks.xls" contains columns: number_courses,  time_study, m
 the code file "students_mark.ipynb" contains solution
 
 ## results
-residual plots and metrics are included
+RESULT1 includes the metrics score: RMSE and R2 
+residualplot1.png and residualplot2.png includes residual plots
